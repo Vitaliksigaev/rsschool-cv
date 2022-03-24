@@ -13,7 +13,6 @@
 ---
 ## **Code example:**
 `Code`
-
 ---
 ## **Courses:**
 * IT-Academy - HTML. CSS.
