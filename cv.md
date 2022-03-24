@@ -1,28 +1,28 @@
- #**Sigaev Vitalik**#
+#**Sigaev Vitalik**
 --- 
-##**Junior Frontend Developer**##
+##**Junior Frontend Developer**
 ---
-##**Contact information:**##
+##**Contact information:**
 * Phone: +375293966888
 * E-mail: vitaliksigaev@gmail.com
 ---
-##**Skills:**##
+##**Skills:**
 * HTML5 
 * CSS3
 * Git
 ---
-##**Code example:**##
+##**Code example:**
 `Code`
 
 ---
-##**Courses:**##
+##**Courses:**
 * IT-Academy - HTML. CSS.
 * IT-Academy - PM -manager.
 ---
-##**Education:**##
+##**Education:**
 * University: Belarusian Technical University - Civil  Enginner.
 ---
-##**Languages:**##
+##**Languages:**
 * Russian.
 * English - A2.
 ---
